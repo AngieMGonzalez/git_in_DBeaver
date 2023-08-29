@@ -1,1 +1,1 @@
-SELECT * FROM Album a
+SELECT * FROM salestypes;
